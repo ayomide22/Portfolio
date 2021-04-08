@@ -1,0 +1,11 @@
+body{
+    margin: 10px 150px 10px 150px;  
+    font-family: Arial, Helvetica, sans-serif; 
+}
+h1{
+    text-align: center;
+}
+.address{
+    text-align: center;
+    font-weight: bold;
+}
